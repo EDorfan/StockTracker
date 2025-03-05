@@ -1,4 +1,4 @@
-﻿// Program designed to return stock value information
+// Program designed to return stock value information
 
 using System;
 using System.Net.Http;
